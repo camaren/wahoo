@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/wahoo.dir/Person.cpp.o CMakeFiles/wahoo.dir/TestPerson.cpp.o CMakeFiles/wahoo.dir/DatasimDate.cpp.o  -o wahoo 
